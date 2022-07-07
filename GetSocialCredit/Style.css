@@ -1,0 +1,35 @@
+#h1One{
+    margin: auto;
+    width: 50%;
+    border: 3px solid red;
+    padding: 10px;
+    text-align: center;
+    color: gold;
+}
+#SCStatement,  #SCStatementTwo, #SCNum{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: chartreuse;
+}
+
+#rules{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+#image, #link, #getSC{
+    display: block;
+    margin: auto;
+    
+}
+#getSC{
+    background-color:rgb(48, 48, 48);
+    color:blueviolet;
+    border-radius: 12px;
+    font-size: 32px;
+    transition-duration: 0.2s;
+}
+#getSC:hover{
+    background-color: crimson;
+}
